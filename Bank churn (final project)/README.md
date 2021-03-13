@@ -1,5 +1,7 @@
 ## Исследовательский проект: Анализ оттока клиентов банка "Метанпром"
 
+#### Ссылка да презентацию: https://drive.google.com/file/d/179Rk0iIQXe-0Auvsw5204pekf0isYEXo/view?usp=sharing
+#### Ссылка на дашборд: https://public.tableau.com/views/Dashboard_16139358178210/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link 
 
 ### Задача проекта: 
 Проанализировать клиентов регионального банка и выделить портрет клиентов, которые склонны уходить из банка.
